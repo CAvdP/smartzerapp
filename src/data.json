@@ -1,0 +1,47 @@
+[
+    {
+        "title":"Lace V-neck dress",
+        "price":"£34.99",
+        "color":"black",
+        "thumbnailRef":"http://lp2.hm.com/hmgoepprod?set=source[/25/94/259484c47908c8d09dbc4cbf0bf914203dd0198a.jpg],origin[dam],category[ladies_dresses_lace],type[LOOKBOOK],res[w],hmver[1]&call=url[file:/product/main]",
+        "imageRef":"http://lp2.hm.com/hmgoepprod?set=source[/08/08/08081ee5b31e0effe344657213f7638cc177d99a.jpg],origin[dam],category[ladies_dresses_lace],type[LOOKBOOK],res[w],hmver[1]&call=url[file:/product/main]",
+        "description":"Short lace dress with a scallop-edged V-neck front and back. Long sleeves with a scalloped edge at the cuffs, a seam at the waist and a flared skirt. Partly lined.",
+        "link":"https://www2.hm.com/en_gb/productpage.0877109001.html"
+    },
+    {
+        "title":"Straw hat",
+        "price":"£9.99",
+        "color":"Orange",
+        "thumbnailRef":"//lp2.hm.com/hmgoepprod?set=source[/de/4d/de4d1cb143f70a322e950db805b0b690fd3c10e5.jpg],origin[dam],category[ladies_accessories_hatscarvesgloves],type[DESCRIPTIVESTILLLIFE],res[z],hmver[1]&call=url[file:/product/main]",
+        "imageRef":"https://lp2.hm.com/hmgoepprod?set=source[/de/4d/de4d1cb143f70a322e950db805b0b690fd3c10e5.jpg],origin[dam],category[ladies_accessories_hatscarvesgloves],type[DESCRIPTIVESTILLLIFE],res[s],hmver[1]&call=url[file:/product/main]",
+        "description":"Hat in braided paper straw. Width of brim approx. 10 cm.",
+        "link":"https://www2.hm.com/en_gb/productpage.0562299007.html"
+    },
+    {
+        "title":"Oxford shoes",
+        "price":"£34.99",
+        "color":"Brown",
+        "thumbnailRef":"https://lp2.hm.com/hmgoepprod?set=source[/76/5a/765aa1715235d0601e0d443a18153dfd9cdb275f.jpg],origin[dam],category[men_shoes_dressed],type[DESCRIPTIVESTILLLIFE],res[s],hmver[1]&call=url[file:/product/main]",
+        "imageRef":"https://lp2.hm.com/hmgoepprod?set=source[/b9/bb/b9bbadea5aa6ea9f899a08739d00a0df5bf10e06.jpg],origin[dam],category[men_shoes_dressed],type[DESCRIPTIVESTILLLIFE],res[w],hmver[1]&call=url[file:/product/main]",
+        "description":"Oxford shoes with closed lacing at the front. Canvas linings and insoles. Heel 2 cm.",
+        "link":"https://www2.hm.com/en_gb/productpage.0718936002.html"
+    },
+    {
+        "title":"Slim Jeans",
+        "price":"£24.99",
+        "color":"Denim blue",
+        "thumbnailRef":"https://lp2.hm.com/hmgoepprod?set=source[/8c/66/8c66737bb9ced87cd070a0f4bcd891410819784c.jpg],origin[dam],category[men_jeans_slim],type[LOOKBOOK],res[s],hmver[1]&call=url[file:/product/main]",
+        "imageRef":"https://lp2.hm.com/hmgoepprod?set=source[/d3/18/d318d64478fefb1a9a077d4cdb36ff28e7d2f2b7.jpg],origin[dam],category[men_jeans_slim],type[LOOKBOOK],res[w],hmver[1]&call=url[file:/product/main]",
+        "description":"5-pocket jeans in washed denim with a regular waist, zip fly and slim legs. The jeans are made partly from recycled cotton.",
+        "link":"https://www2.hm.com/en_gb/productpage.0751994006.html"
+    },
+    {
+        "title":"Oxford shirt Regular Fit",
+        "price":"£17.99",
+        "color":"Anthracite grey",
+        "thumbnailRef":"https://lp2.hm.com/hmgoepprod?set=source[/a0/0a/a00a530e2dc8e8fb1c03096a4c23635b7325e21b.jpg],origin[dam],category[men_shirts_longsleeved],type[DESCRIPTIVESTILLLIFE],res[s],hmver[1]&call=url[file:/product/main]",
+        "imageRef":"https://lp2.hm.com/hmgoepprod?set=source[/74/33/7433b321cd34bdd1fd5ca82973c389ea34db74e8.jpg],origin[dam],category[men_shirts_longsleeved],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+        "description":"Long-sleeved shirt in washed Oxford cotton with a button-down collar, chest pocket and yoke with a hanger loop at the back. Regular Fit – a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette.",
+        "link":"https://www2.hm.com/en_gb/productpage.0795836007.html"
+    }
+]
