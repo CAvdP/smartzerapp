@@ -13,6 +13,6 @@ You will also see any lint errors in the console.
 ### `nodemon html5-video-streamer`
 
 Runs a small script to host the demo video locally.
-You can find the html5-video-streamer in the video directory.
+You can find the html5-video-streamer in the video directory.<br />
 Will run under: http://127.0.0.1:1337/
 
